@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Marcos Ginel, welcome to my github web page!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've been backend developer (Java, Struts, Spring, NodeJS, Django), with experience in Hadoop and Spark (Big Data). After this, I went directly as "frontend lead" with AngularJS, Angular, ReactJS and now I'm playing with VueJS. I did some Ionic and Android development (Cordova included!) and ended up doing DevOps practices as AWS Cloud Architect. Lot of Jenkins, Docker and a little bit of Kubernetes.
 
+So basically I'm the guy who loves to roll up his sleeves.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[marcos.ginel@gmail.com](mailto:marcos.ginel@gmail.com)
