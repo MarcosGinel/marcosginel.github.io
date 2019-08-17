@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Marcos Ginel, welcome to my github web page!
+Hi there! I'm Marcos Ginel, from Seville, Spain. Welcome to my github web page!
 
 ### More Information
 
