@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 ---
 
-This is my first post! (See more...).
+This is my first post!
 
 ![Jekyll-logo]({{ site.baseurl }}/images/jekyll-logo.png)
 
